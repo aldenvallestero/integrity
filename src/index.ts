@@ -81,12 +81,5 @@ class Machine {
 
 let machine = new Machine();
 
-machine.transact(new Transaction(1, new Date(), { leni: 0, bbm: 1, ping: 0, manny: 0, isko: 0, leody: 0 }));
-machine.transact(new Transaction(2, new Date(), { leni: 1, bbm: 0, ping: 0, manny: 0, isko: 0, leody: 0 }));
-machine.transact(new Transaction(3, new Date(), { leni: 0, bbm: 1, ping: 0, manny: 0, isko: 0, leody: 0 }));
-machine.transact(new Transaction(4, new Date(), { leni: 0, bbm: 1, ping: 0, manny: 0, isko: 0, leody: 0 }));
-machine.transact(new Transaction(5, new Date(), { leni: 0, bbm: 1, ping: 0, manny: 0, isko: 0, leody: 0 }));
-machine.transact(new Transaction(6, new Date(), { leni: 0, bbm: 0, ping: 0, manny: 0, isko: 0, leody: 1 }));
-machine.transact(new Transaction(7, new Date(), { leni: 0, bbm: 0, ping: 0, manny: 0, isko: 1, leody: 0 }));
-
+machine.transact(new Transaction(1, new Date(), { leni: 0, bbm: 0, ping: 0, manny: 0, isko: 0, leody: 1 }));
 console.log('Is machine integrity still strong? ', machine.integrity());
