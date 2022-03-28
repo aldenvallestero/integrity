@@ -1,2 +1,2 @@
 # integrity
-An open-source serverless election voting system that promotes integrity for the 2028 election.
+An open-source and serverless election voting system that runs on a blockchain promoting integrity for the next election of year 2028.
