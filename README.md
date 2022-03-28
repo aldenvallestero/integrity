@@ -1,6 +1,6 @@
 # integrity
 A gift for the Filipino people. A clean & honest election.
-An open-source serverless election voting system that promotes integrity for the 2028 election.
+An open-source and serverless election voting system that runs on a blockchain promoting integrity for the next election of year 2028.
 Project Integrity was initiated by Alden Vallestero to propose to the government of the Republic of the Philippines a new way of counting peoples’ vote during election that concentrates to the integrity of the records.
 
 ## Why choose Project Integrity?
@@ -12,3 +12,4 @@ A blockchain is a distributed database that is shared among the nodes of a compu
 [Investopedia](https://www.investopedia.com/terms/b/blockchain.asp)
 
 ## Integrity Assurance
+
